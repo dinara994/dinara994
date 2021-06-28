@@ -8,11 +8,9 @@ Here are some ideas to get you started:
 -->
 - 💻 I like to write code
 - 📚 I'm constantly learning new things
-- 🔭 I’m currently working on new project ...
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on  Full stack developer...
-- 🤔 I’m looking for help with js
-<!-- - 💬 Ask me about Java Sckript -->
+- 🔭 I’m currently working on new project
+- 🌱 I’m currently learning full stack Developer
+- 🤔 Love to learn and explore.
 - 😉 Pronouns: She/Her
 - 📫 [How to reach me](di_94@mail.ru) 
 <div>
