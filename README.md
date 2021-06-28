@@ -19,3 +19,11 @@ Here are some ideas to get you started:
   <img src="https://i.ibb.co/t8kpXqg/develop.jpg" alt="Sublime's custom image"/>
 </p>
  </div>
+ 
+ 
+
+ ## &#x1f4c8; GitHub Stats
+
+<br>
+ 
+ [![Dinara's github stats](https://github-readme-stats.vercel.app/api?username=dinara994&show_icons=true&theme=cobalt)](https://github.com/dinara994?tab=repositories)
