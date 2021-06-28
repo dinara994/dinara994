@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on  Full stack developer...
 - 🤔 I’m looking for help with js
 - 💬 Ask me about 
+- 😉 Pronouns: She/Her
 - 📫 [How to reach me:](di_94@mail.ru)
--😉 Pronouns: She/Her
-
