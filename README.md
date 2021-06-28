@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-![- 💻 I like to write code
+- 💻 I like to write code
 - 📚 I'm constantly learning new things
 - 🔭 I’m currently working on new project ...
 - 🌱 I’m currently learning 
@@ -13,5 +13,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with js
 <!-- - 💬 Ask me about Java Sckript -->
 - 😉 Pronouns: She/Her
-- 📫 [How to reach me](di_94@mail.ru)](https://ru.freepik.com/premium-vector/software-development-programmer-at-work-big-data-processing_10352069.htm#&position=22)
-
+- 📫 [How to reach me](di_94@mail.ru) 
+<div>
+  <p>
+  <img src="https://i.ibb.co/t8kpXqg/develop.jpg" alt="Sublime's custom image"/>
+</p>
+ </div>
